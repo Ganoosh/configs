@@ -27,7 +27,7 @@
     --sidebar-width: 350px;
     /* initial width of the sidebar. 
     advised not to change since tst css relies on this value*/
-    --sidebar-collapsed-width: 60px;
+    --sidebar-collapsed-width: 65px;
 
     --dividers: 2px;
 
