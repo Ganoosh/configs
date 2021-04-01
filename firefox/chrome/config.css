@@ -5,24 +5,24 @@
 @import "userChrome-static.css";
 
 :root {
-    --dark-0: #151d28;
-    --dark-base: #192330;
-    --dark-1: #233143;
-    --dark-2: #2a3b51;
-    --dark-3: #374e6c;
-    --dark-4: #3e5879;
-    --light-0: #d7dfea;
-    --light-base: #afc0d5;
-    --light-1: #a1b5ce;
-    --light-2: #94abc7;
-    --light-3: #87a0c0;
-    --light-4: #7996b9;
+    --dark-0: #1b1b1b;
+    --dark-base: #212121;
+    --dark-1: #2e2e2e;
+    --dark-2: #383838;
+    --dark-3: #4a4a4a;
+    --dark-4: #535353;
+    --light-0: #dddddd;
+    --light-base: #bdbdbd;
+    --light-1: #b1b1b1;
+    --light-2: #a7a7a7;
+    --light-3: #9c9c9c;
+    --light-4: #919191;
     --accent: #63cdcf;
     --yellow: #dbc074;
     --green: #5cb8a7;
     --red: #c94f6d;
 
-    /* expanded width of the sidebar. 
+    /* expanded width of the sidebar.
     used for userChrome-static, and hover */
     --sidebar-width: 350px;
     /* initial width of the sidebar. 

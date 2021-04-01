@@ -181,8 +181,8 @@
 
 #urlbar[focused],
 #searchbar[focused] {
-    border: 2px solid var(--toolbar-field-focus-border-color) !important;
-    padding: 0 !important;
+    border: 0px solid var(--toolbar-field-focus-border-color) !important;
+    padding-top: 2px !important;
     margin: 0 !important;
 }
 
