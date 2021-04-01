@@ -3,6 +3,9 @@
 - Tabby Cat
 - Tree Style Tab
 
+### Preview
+![image](https://user-images.githubusercontent.com/55608327/113269078-f34e3e00-928c-11eb-93a5-78dd313929f8.png)
+
 ### How to install:
 1. Go to `help > troubleshooting information` on firefox
 2. Copy `profile path`
